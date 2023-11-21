@@ -2,9 +2,18 @@
 <h2 align="center">Full Stack Development</h2>
 <p align="center">I specialize in developing Web Apps, Native Mobile Apps, and Desktop Apps.</p>
 
+<!--
 <p align="center">
 <strong>ASP.Net | Flutter | C# | NodeJS | NextJS | Javascript | Ms. SQL Server | MySQL | AWS Cloud | Digital Ocean</strong>
 </p>
+-->
+<div align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Platform-ASP.Net%20|%20Flutter%20|%20CSharp%20|%20NodeJS%20|%20NextJS%20|%20Javascript%20|%20Ms. SQL Server%20|%20MySQL%20|%20AWS Cloud%20|%20Digital Ocean%20-blue.svg?logo=flutter"
+      alt="Platform" />
+  </a>
+</div>
+
 
 - [x] 🔭 I’m currently working on Full-stack project development
 - [x] 🌱 I’m currently learning Flutter and AWS Cloud
