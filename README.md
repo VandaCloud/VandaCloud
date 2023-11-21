@@ -8,8 +8,8 @@
 
 - [x] 🔭 I’m currently working on Full-stack project development
 - [x] 🌱 I’m currently learning Flutter and AWS Cloud
-- [x] 📫 How to reach me: [Facebook](https://web.facebook.com/lovelysweatboy), [LinkedIn](www.linkedin.com/in/ronvanda)
-- [x] ⚡ Learn more about me from my [official page](https://feel2learn.com/)
+- [x] 📫 How to reach me: [Facebook](https://web.facebook.com/lovelysweatboy), [LinkedIn](https://www.linkedin.com/in/ronvanda)
+- [x] ⚡ Learn more about me from my [official page](https://www.feel2learn.com/)
 
 **Stats from my public work**
 
