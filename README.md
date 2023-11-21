@@ -26,7 +26,6 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=VandaCloud&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=VandaCloud's%20GitHub%20stats" alt="VandaCloud's Github stats" height=180>](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and tools
-
 <code><img height="20" src="https://avatars.githubusercontent.com/u/14101776?s=20&v=4" alt="Flutter"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1609975?s=20&v=4" alt="Dart"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/18133?s=20&v=4" alt="Git"></code>
