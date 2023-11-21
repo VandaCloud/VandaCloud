@@ -21,8 +21,7 @@
 - [x] 📫 How to reach me: [Facebook](https://web.facebook.com/lovelysweatboy), [LinkedIn](https://www.linkedin.com/in/ronvanda)
 - [x] ⚡ Learn more about me from my [official page](https://www.feel2learn.com/)
 
-**Stats from my public work**
-
+## Stats from my public work
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandacloud&show_icons=true&count_private=true&theme=tokyonight&langs_count=8&hide=CMake,ShaderLab,C%23,C%2B%2B&layout=compact&exclude_repo=android_kernel_samsung_gts7,twrp_device_samsung_gts7lwifi,android10_kernel_samsung_gts7lwifi,android_device_samsung_gts7lwifi,android_kernel_samsung_exynos990,android_kernel_samsung_gts7lwifi-old,proprietary_vendor_samsung_gts7lwifi,android_device_samsung_r8s,proprietary_vendor_samsung_r8s,proprietary_vendor_samsung_sm8250-common,android_device_samsung_sm8250-common,android_device_samsung_exynos990-common,kernel_samsung_exynos990,proprietary_vendor_samsung_exynos990-common,recovery_device_samsung_r8s,PatientAccess_Patched,Stagecoach_Patched,social-old,web-repo&custom_title=Most%20used%20languages" alt="Top Langs" height=180>](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github-readme-stats.vercel.app/api?username=VandaCloud&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=VandaCloud's%20GitHub%20stats" alt="VandaCloud's Github stats" height=180>](https://github.com/anuraghazra/github-readme-stats)
 
