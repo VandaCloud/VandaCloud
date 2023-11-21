@@ -6,7 +6,7 @@
 <strong>ASP.Net | Flutter | C# | NodeJS | NextJS | Javascript | Ms. SQL Server | MySQL | AWS Cloud | Digital Ocean</strong>
 </p>
 
-- 🔭 I’m currently working on Full-stack project development
-- 🌱 I’m currently learning Flutter and AWS Cloud
-- 📫 How to reach me: [Facebook](https://web.facebook.com/mrrhak168), [LinkedIn](www.linkedin.com/in/ronvanda)
-- ⚡ Learn more about me from my [official page](https://feel2learn.com/)
+- [x] 🔭 I’m currently working on Full-stack project development
+- [x] 🌱 I’m currently learning Flutter and AWS Cloud
+- [x] 📫 How to reach me: [Facebook](https://web.facebook.com/mrrhak168), [LinkedIn](www.linkedin.com/in/ronvanda)
+- [x] ⚡ Learn more about me from my [official page](https://feel2learn.com/)
